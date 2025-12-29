@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "いろはすてっぷ！",
+  "base_artist": "風真いろは",
+  "createdAt": "2025-12-29T05:54:24.160486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いろはすてっぷ!",
+      "artist": "風真いろは",
+      "has_synced": false,
+      "path": "select/01_いろはすてっぷ!_風真いろは.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いろはすてっぷ！",
+      "artist": "風真いろは",
+      "has_synced": true,
+      "path": "select/02_いろはすてっぷ!_風真いろは.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いろはすてっぷ!",
+      "artist": "風真いろは",
+      "has_synced": false,
+      "path": "select/pl_01_いろはすてっぷ!_風真いろは.txt"
+    }
+  ]
+}
